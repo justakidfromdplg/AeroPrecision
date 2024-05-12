@@ -15,12 +15,4 @@ Sensors:
 
 
 RESEARCHERS:
--DEO MARI JAKEEM B. DAYONOT
--ANDRE GEOMAN N. GEOGRAFO
--KENT IVAN Y. CIMAFRANCA
--CHRISTIAN G. VILLAVERDE
--DELFIN MATTHEW C. LEE
--RIC ADRIAN P. TABIGNE
--MAVERICK V. MARAÑO
--GARRY G. BONGCAC
--MAR’J G. BARBASO
+Dayonot, D.M.J., Geografo, A.G., Cimafranca, K.I., Villaverde, C., Lee, D.M., Tabigne, R.A., Maraño, M., Bongcac, G., and Barbaso, M. (2024). 
